@@ -1,1 +1,2 @@
-print("Hello, World!")
+name = "Ian"
+age = 20
